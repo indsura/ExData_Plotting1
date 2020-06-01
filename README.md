@@ -1,5 +1,7 @@
 ## Introduction
 
+#### This assignment is submitted by Indira Srinivasan for the Peer graded coursera assignment in the Exploratory Data Analysis course
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
@@ -111,4 +113,10 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
+
+# Submission 
+
+#### 1. Please find attached the plots under the following names of files in the repo: plot1.png, plot2.png, plot3.png, plot4.png
+#### 2. Please find attached the code to construct those plots in these files in the repo: plot1.R, plot2.R, plot3.R, plot4.R 
 
